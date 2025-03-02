@@ -56,7 +56,3 @@ We are actively working on **Starflix** and welcome contributions!
 
 For discussions and updates, feel free to reach out via **GitHub Issues**.  
 
-## 📜 License  
-
-This project is licensed under the **MIT License**.  
-
